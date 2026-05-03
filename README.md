@@ -2,6 +2,8 @@
 
 A static educational / demo jewellery storefront: several HTML pages with responsive layout for mobile, tablet, and desktop.
 
+**Live demo (GitHub Pages):** [vitalina-yefimova.github.io/jewellery-shop-layout](https://vitalina-yefimova.github.io/jewellery-shop-layout/)
+
 ## Design
 
 Figma mockup: [Jewellery (no card)](https://www.figma.com/design/lsBAbtiBY7aNVy4UqSqjc6/Jewellery--no-card-?node-id=0-1&t=r9EsMmpUENf0ZCOX-1)
